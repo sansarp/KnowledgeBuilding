@@ -1,0 +1,39 @@
+Malware analysis video tutorial links
+
+https://www.youtube.com/watch?v=35teUHnZNGU
+https://youtu.be/FzVFYCG4ess    
+https://samsclass.info/127/proj/putty.htm     #Hacking putty with Immunity debugger
+ SamClass : https://samsclass.info/141/141_F17.shtml  # cryptography and network
+https://www.evilsocket.net/2014/02/11/on-windows-syscall-mechanism-and-syscall-numbers-extraction-methods/     #Get System call list for given DLL 
+https://www.evilsocket.net/2014/03/11/programmatically-identifying-and-isolating-functions-inside-executables-like-ida-does/. # Get all function calls as IDA does
+https://www.thegeekstuff.com/2011/11/strace-examples/    # Strace command to get all system calls of a process in LINUX machine 
+
+
+SystemCall Trace for Windows:::  http://drmemory.org/docs/page_drstrace.html   (Do it for simple calc, sol,program and see how it works)
+http://drmemory.org/strace_for_windows.html
+Tutorials: https://github.com/DynamoRIO/dynamorio/wiki/Downloads
+file:///Users/subash/Downloads/DynamoRIO-tutorial-feb2017.pdf
+
+https://github.com/mxmssh/drltrace    (Get API call Graph)
+https://github.com/mxmssh/drltrace/tree/master/api_calls_viz
+https://github.com/mxmssh/drltrace/wiki/Malware-Analysis-Examples
+
+List all System Calls/: https://w3challs.com/syscalls/
+
+
+Reverse Engineering with Linux
+
+
+
+DynamoRIO supports both Intel (x86, AMD64) and ARM (ARM, AArch64) platforms while Pin supports only Intel
+
+
+
+
+
+
+
+
+IDA plugin + video in this link: https://github.com/deresz/funcap
+
+3372c1edab46837f1e973164fa2d726c5c5e17bcb888828ccd7c4dfcc234a370 CryptoLocker
