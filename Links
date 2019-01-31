@@ -30,7 +30,8 @@ DynamoRIO supports both Intel (x86, AMD64) and ARM (ARM, AArch64) platforms whil
 
 Download API-calls for malwares - Dataset
 http://ocslab.hksecurity.net/apimds-dataset
-
+https://www.dropbox.com/sh/lxnlxeyg5x38clt/AAAbyRcrwBWnFFT93y5AvSVAa?dl=0
+VirusTotal API code: https://github.com/Xen0ph0n/VirusTotal_API_Tool/blob/master/vtlite.py
 
 
 
