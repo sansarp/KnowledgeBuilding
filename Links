@@ -38,6 +38,8 @@ System call vs Library call good explanation: https://stackoverflow.com/question
 C Install: https://osdn.net/projects/mingw/releases/69950
 
 Has info about good tools link: https://github.com/cybertechniques/site/tree/master/analysis_tools
+https://toddcullumresearch.com/2017/07/01/todds-giant-intro-of-windows-malware-analysis-tools/
+
 
 IDA plugin + video in this link: https://github.com/deresz/funcap
 
