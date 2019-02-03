@@ -49,6 +49,8 @@ https://www.reddit.com/r/ReverseEngineering
 ===Get Dll complete information : http://xpdll.nirsoft.net/kernel32_dll.html
 ===Get all System calls information : https://j00ru.vexillium.org/syscalls/nt/32/
 
+--About dll: https://winitor.com/pdf/DynamicLinkLibraries.pdf
+
 IDA plugin + video in this link: https://github.com/deresz/funcap
 
 3372c1edab46837f1e973164fa2d726c5c5e17bcb888828ccd7c4dfcc234a370 CryptoLocker
