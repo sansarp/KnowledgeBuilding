@@ -1,0 +1,3 @@
+Resize machine in vm: 
+C:\Program Files\Oracle\VirtualBox>VBoxManage modifyhd "C:\Users\Cliff\VirtualBox VMs\Windows10\Windows10.vdi" --resize 400000
+
