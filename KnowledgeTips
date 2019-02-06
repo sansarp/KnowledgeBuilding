@@ -1,3 +1,5 @@
 Resize machine in vm: 
+https://www.ubergizmo.com/how-to/resize-virtualbox-disk/
+http://derekmolloy.ie/resize-a-virtualbox-disk/
 C:\Program Files\Oracle\VirtualBox>VBoxManage modifyhd "C:\Users\Cliff\VirtualBox VMs\Windows10\Windows10.vdi" --resize 400000
 
