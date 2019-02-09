@@ -56,7 +56,10 @@ https://homepages.dcc.ufmg.br/~camarao/lp/concepts.pdf
 ===Get Dll complete information : http://xpdll.nirsoft.net/kernel32_dll.html
 ===Get all System calls information : https://j00ru.vexillium.org/syscalls/nt/32/
 
---About dll: https://winitor.com/pdf/DynamicLinkLibraries.pdf
+About dll
+--------------------------------------------
+https://winitor.com/pdf/DynamicLinkLibraries.pdf
+http://www.ni.com/tutorial/8503/en/
 
 IDA plugin + video in this link: https://github.com/deresz/funcap
 
