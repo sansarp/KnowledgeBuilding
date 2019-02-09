@@ -46,6 +46,11 @@ https://malwareanalysisforums.com/
 https://www.reddit.com/r/ReverseEngineering
 https://docs.angr.io/core-concepts/loading
 
+symbolic concolic execution
+--------------------------------------
+http://www-verimag.imag.fr/~mounier/Enseignement/Software_Security/ConcolicExecution.pdf
+https://www.cs.purdue.edu/homes/ninghui/courses/526_Fall15/handouts/SymExec.pdf
+http://blogs.grammatech.com/hybrid-concolic-execution-part-1
 
 Books/Ebooks
 -----------------------------------
