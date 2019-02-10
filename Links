@@ -41,10 +41,22 @@ Has info about good tools link: https://github.com/cybertechniques/site/tree/mas
 https://toddcullumresearch.com/2017/07/01/todds-giant-intro-of-windows-malware-analysis-tools/
 
 Discussion forums/Blogs
----------------------------------
+-----------------------------------------------------
 https://malwareanalysisforums.com/
 https://www.reddit.com/r/ReverseEngineering
 https://docs.angr.io/core-concepts/loading
+https://code.google.com/archive/p/decaf-platform/  : Site some papers from this link.
+https://github.com/rshipp/awesome-malware-analysis    : For dataset and complete tool listings. Rating: 5 star
+
+Paper Links
+-----------------------------------------------------
+https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final107.pdf
+
+Try these quickly.
+-----------------------------------------------------
+https://github.com/programa-stic/barf-project
+
+
 
 symbolic concolic execution
 --------------------------------------
