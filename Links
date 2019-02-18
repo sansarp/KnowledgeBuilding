@@ -13,6 +13,10 @@ SystemCall Trace for Windows:::  http://drmemory.org/docs/page_drstrace.html   (
 http://drmemory.org/strace_for_windows.html
 Tutorials: https://github.com/DynamoRIO/dynamorio/wiki/Downloads
 file:///Users/subash/Downloads/DynamoRIO-tutorial-feb2017.pdf
+Dr. Memory links
+https://github.com/DynamoRIO/dynamorio/wiki/Downloads
+https://github.com/DynamoRIO/dynamorio/wiki/How-To-Build
+
 
 https://github.com/mxmssh/drltrace    (Get API call Graph)
 https://github.com/mxmssh/drltrace/tree/master/api_calls_viz
