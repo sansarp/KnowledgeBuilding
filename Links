@@ -44,7 +44,7 @@ C Install: https://osdn.net/projects/mingw/releases/69950
 Has info about good tools link: https://github.com/cybertechniques/site/tree/master/analysis_tools
 https://toddcullumresearch.com/2017/07/01/todds-giant-intro-of-windows-malware-analysis-tools/
 
-Discussion forums/Blogs
+Discussion forums/Blogs/Youtube channels
 -----------------------------------------------------
 https://malwareanalysisforums.com/
 https://www.reddit.com/r/ReverseEngineering
@@ -52,6 +52,7 @@ https://docs.angr.io/core-concepts/loading
 https://code.google.com/archive/p/decaf-platform/  : Site some papers from this link.
 https://github.com/rshipp/awesome-malware-analysis    : For dataset and complete tool listings. Rating: 5 star
 https://www.cs.ucr.edu/~heng/teaching/cs260-winter2017/index.html
+https://www.youtube.com/watch?v=E4W6nK1UcnA    : Memory forensics, watch this,..
 
 Paper Links
 -----------------------------------------------------
